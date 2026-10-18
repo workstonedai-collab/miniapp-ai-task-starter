@@ -1,0 +1,10 @@
+{
+  "name": "miniapp-ai-task-starter",
+  "version": "0.1.0",
+  "description": "A local, fictional long-task demo with durable stages, explicit retry and native miniapp polling",
+  "type": "module",
+  "private": true,
+  "license": "Apache-2.0",
+  "engines": { "node": ">=22.12" },
+  "scripts": { "start": "node src/server.js", "test": "node --test", "demo": "node examples.js" }
+}

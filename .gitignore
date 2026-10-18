@@ -1,0 +1,7 @@
+.state/
+node_modules/
+output/
+.env*
+*.log
+.DS_Store
+miniprogram/project.private.config.json

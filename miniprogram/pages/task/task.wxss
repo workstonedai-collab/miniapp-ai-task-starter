@@ -1,0 +1,1 @@
+page{background:#f2f5f2;color:#19302b;font-size:30rpx}.panel{padding:40rpx}input{background:white;padding:24rpx;margin:24rpx 0}button{margin:20rpx 0}text{display:block;white-space:pre-wrap;margin:24rpx 0;word-break:break-all}

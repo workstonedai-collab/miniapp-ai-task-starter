@@ -1,0 +1,1 @@
+<view class="panel"><text>虚构任务 · 不调用模型</text><input value="{{topic}}" bindinput="inputTopic" maxlength="2000"/><button bindtap="create" disabled="{{busy}}">创建示例任务</button><button bindtap="retry" disabled="{{!jobId || busy}}">继续保存</button><text>{{status}}</text><text>{{result}}</text><text>本机开发示例。首次保存故意失败，继续时复用已生成内容。真实模型、部署与真机验收需另外完成。</text></view>
